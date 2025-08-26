@@ -1,0 +1,3 @@
+spritemaster zorgt ervoor dat er maar 1 versie bestaat van gedeelde sprites
+dingen zoals spores worden op voorand gegenereerd (file inlezen enz), daarna telkens gekopieerd
+mycelium groeien vanaf uiteindes ipv vanaf root

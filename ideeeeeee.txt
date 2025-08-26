@@ -1,0 +1,34 @@
+hyphae network changes all stats and extra attributes
+
+Fruit Hyphae Spore:
+FF fly agaric // amanita
+-high health
+HH mold // penicillium
+-no hitbox
+-slows bacteria
+SS puffball // Calvatia
+-high damage
+-homing spores
+-upgrade: multiple spores, caldera plegen
+FH truffle // tuber 
+-land mine
+-hides when recharging
+HS flesh of the gods // Psilocybe
+-confuses bacteria
+-geometric effects
+-upgrade: eventually whole screen distorted
+SF lion mane // hericium
+-short range stabs
+-upgrade: spawns others
+
+Bacteria:
+Nucleoid (AI)
+Flagellum (speed)
+cytoplasm (health)
+
+
+
+
+
+
+

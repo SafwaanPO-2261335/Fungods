@@ -1,0 +1,14 @@
+1	13:00:41	Camera synchronization error.	Error(s) while connecting to cameras:  Camera 7 (192.168.254.5) - Error code (18): The camera did not accept a certain command. Message: [Syntax Error] ptpmode mark  Camera 10 (192.168.254.3) - Error code (18): The camera did not accept a certain command. Message: [Syntax Error] ptpmode mark  Camera 11 (192.168.254.4) - Error code (18): The camera did not accept a certain command. Message: [Syntax Error] ptpmode mark  
+1	13:02:38	Realtime started	
+1	13:02:55	Rigid body identification results	Rigid body identification results:  0 successful  1 failed
+1	13:02:55	File created	
+1	13:03:44	File closed	
+1	13:40:39	Camera synchronization error.	Error(s) while connecting to cameras:  Camera 2 (192.168.254.3) - Error code (10): The camera closed the connection. 
+1	13:41:42	Realtime started	
+1	13:44:21	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	13:44:21	Not all gaps were filled	3 gaps out of 31 were filled. The other 28 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	13:44:21	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Wand": in 256 of the 6289 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	13:44:21	File created	
+1	13:55:51	File closed	
+1	13:55:52	Realtime started	
+1	14:08:09	Disconnected	
